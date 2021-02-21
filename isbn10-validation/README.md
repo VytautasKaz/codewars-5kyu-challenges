@@ -21,5 +21,5 @@ This is a valid ISBN, because:
 048665088X   -->  true
 X123456788   -->  false
 
-Source:
+Link:
 https://www.codewars.com/kata/51fc12de24a9d8cb0e000001/javascript
