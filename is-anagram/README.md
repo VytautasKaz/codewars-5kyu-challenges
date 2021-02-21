@@ -22,4 +22,4 @@ anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']) => ['carer', '
 
 anagrams('laser', ['lazing', 'lazy',  'lacer']) => []
 ```
-Source: https://www.codewars.com/kata/523a86aa4230ebb5420001e1
+Link: https://www.codewars.com/kata/523a86aa4230ebb5420001e1
